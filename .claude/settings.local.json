@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(file:*)",
+      "Bash(sips:*)",
+      "Bash(rsvg-convert:*)",
+      "Bash(make:*)"
+    ]
+  }
+}
