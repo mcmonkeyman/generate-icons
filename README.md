@@ -1,6 +1,6 @@
 # generate-icons
 
-Build pipeline that converts source images (PNG or SVG) into macOS `.icns` files and multi-size PNG sets.
+Scripts that convert source images (PNG or SVG) into macOS `.icns` files and multi-size PNG sets.
 
 ## Requirements
 
